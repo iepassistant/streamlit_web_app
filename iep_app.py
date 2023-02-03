@@ -11,7 +11,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 # Set OpenAI API key
-openai.api_key = config.api_key
+openai.api_key = config.py
 
 def write_iep():
     st.title("IEP Assist")
