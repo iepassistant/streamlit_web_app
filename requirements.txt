@@ -1,0 +1,4 @@
+# Requirement.txt
+openai==1.1.1
+streamlit==0.63.0
+config==0.4.6
